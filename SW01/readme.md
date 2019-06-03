@@ -6,5 +6,5 @@
 <li/>In order to run the files: <strong>userinf.py</strong> and <strong>contstinf.py</strong>, either go for command line instructions on the terminal, 
 <code>python userinf.py</code> and <code>python contstinf.py</code> or run as per the local python navigator
 <li/>Comply with the code's requirements as needed
-<li/>Here <strong>userinf.py</strong>, <strong>contstinf.py</strong> respectively contain the code required to get the User Info of Codechef User Handles, and to get the Contest List for Upcoming Codechef Contests.
-<li/><i/>Active Internet Connection is required to contact Codechef API.
+<li/>Here <strong>userinf.py</strong>, <strong>contstinf.py</strong> respectively contain the code required to get the User Info of Codeforces User Handles, and to get the Contest List for Upcoming Codeforces Contests.
+<li/><i/>Active Internet Connection is required to contact Codeforces API.
